@@ -1,31 +1,32 @@
 <section class="py-12 border-b border-gray-100">
   <div class="max-w-7xl mx-auto px-6">
-    <div class="flex flex-wrap justify-center md:justify-between items-center gap-8 md:gap-12 opacity-80 grayscale hover:grayscale-0 transition-all duration-500">
-      <!-- Bitso -->
-      <span class="text-xl font-bold flex items-center gap-1"><span class="text-2xl">b</span> Bitso</span>
+    <p class="text-center text-sm text-gray-500 mb-8 uppercase tracking-wider">Trusted by founders building the future</p>
+    <div class="flex flex-wrap justify-center md:justify-between items-center gap-8 md:gap-12 opacity-70 grayscale hover:grayscale-0 transition-all duration-500">
+      <!-- Anduril -->
+      <span class="text-xl font-bold tracking-tight uppercase">Anduril</span>
       
-      <!-- BlockBee -->
+      <!-- Palantir -->
       <span class="text-xl font-bold flex items-center gap-1">
-        <div class="w-4 h-4 bg-black rotate-45"></div> BlockBee
+        <div class="w-4 h-4 bg-black"></div> Palantir
       </span>
 
-      <!-- SoFi -->
-      <span class="text-xl font-bold tracking-tighter">SoFi</span>
+      <!-- SpaceX -->
+      <span class="text-xl font-bold tracking-tighter">SPACEX</span>
 
-      <!-- Xapo Bank -->
-      <span class="text-lg font-semibold tracking-widest uppercase">XAPO BANK</span>
+      <!-- Shield AI -->
+      <span class="text-lg font-semibold tracking-wide">Shield AI</span>
 
-      <!-- Revolut -->
-      <span class="text-xl font-bold">Revolut</span>
+      <!-- Relativity Space -->
+      <span class="text-xl font-bold">Relativity</span>
 
-      <!-- Coinbase -->
-      <span class="text-xl font-bold">coinbase</span>
+      <!-- Scale AI -->
+      <span class="text-xl font-bold">Scale AI</span>
 
-      <!-- nu -->
-      <span class="text-2xl font-bold italic text-black">nu</span>
+      <!-- Hadrian -->
+      <span class="text-2xl font-bold text-black">Hadrian</span>
 
-      <!-- coins.ph -->
-      <span class="text-xl font-medium text-black">coins.ph</span>
+      <!-- Epirus -->
+      <span class="text-xl font-medium text-black uppercase tracking-wider">Epirus</span>
     </div>
   </div>
 </section>
